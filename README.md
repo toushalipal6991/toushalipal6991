@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Currently an Aspiring Data Scientist
-Currently working as a UI developer
-Reach me on [LinkedIn](https://www.linkedin.com/in/toushali-pal-099799146/) or [Gmail](toushalipal6991@gmail.com)
+- :woman_technologist: I'm Currently an Aspiring Data Scientist :chart_with_upwards_trend: :chart_with_downwards_trend:
+- Currently working as a UI developer :paintbrush:
+- Reach me on [LinkedIn](https://www.linkedin.com/in/toushali-pal-099799146/) or [toushalipal6991@gmail.com](toushalipal6991@gmail.com) :e-mail:
 
 <!--
 **toushalipal6991/toushalipal6991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
