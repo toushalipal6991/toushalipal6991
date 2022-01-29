@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :woman_technologist: I'm Currently an Aspiring Data Scientist :chart_with_upwards_trend: :chart_with_downwards_trend:
-- Currently working as a UI developer :paintbrush:
+- Currently working as a UI developer :paintbrush: and enhancing my skills in Data Science.
 - Reach me on [LinkedIn](https://www.linkedin.com/in/toushali-pal-099799146/) or [toushalipal6991@gmail.com](toushalipal6991@gmail.com) :e-mail:
 
 <!--
